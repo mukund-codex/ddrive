@@ -71,7 +71,7 @@
     </section>
     <!-- Hero Section End -->
     <!-- Categories Section Begin -->
-    <section class="product spad">
+    <section class="">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12">

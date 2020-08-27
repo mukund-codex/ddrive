@@ -39,7 +39,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/custom.css">
-
+<link href="https://fonts.googleapis.com/css2?family=Milonga&display=swap" rel="stylesheet">
 <style>
 	.bg-image {
   background-image: url("img/bg.jpg"); /* The image used */
@@ -57,9 +57,10 @@
 <div class="container pt-2 pb-5">
 	<div class="row">
 		<div class="col-1 col-md-4"></div>
-	   <div class="col-10 col-md-4 col-sm-6 loginbox pb-3">
+	   <div class="col-10 col-md-4 col-sm-6 loginbox pb-3 card">
 	   	<br>
-			<h4>Welcome in Ddrive Grocery we will make the easy way of your needs.</h4>
+			<div style="color:#9C2579; font-family:Milonga; font-size: 16px;">Welcome in LOCKDOWN STORES Grocery.
+Join Our Membership in 199Rs. Only, And save Monthly 4 to 5 thousand Rupees. Limited time offer</div>
 			<hr>
 			<?php if(isset($_GET['success'])) { ?>
 				<div class="alert alert-success">
@@ -91,7 +92,14 @@
 				</button></center>
                 <br>New User!<a href="registration.php">Register</a></center>
 			</form>
+			
 		</div>
+		
+	</div>
+	<div class="row">
+				<div class="col-md-4 col-4 col-sm-4"></div>
+				<div class="col-md-4 p-0"><img src="img/sale.gif" width="100%"></div>
+				
 	</div>
 </div>
 </body>
