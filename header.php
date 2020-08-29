@@ -93,6 +93,7 @@ if(! $_SESSION['user_id']){
                             <li class="active"><a href="index.php">Home</a></li>
                             <li><a href="shoping-cart.php">Shoping Cart</a></li>
                             <li><a href="about-us.php">About Us</a></li>
+                            <li><a href="contact.php">Contact Us</a></li>
                             <!-- <li><a href="checkout.php">Check Out</a></li> -->
                             <!--<li><a href="contact.php">Contact</a></li>-->
                             <?php if(isset($_SESSION['user_id']) && !empty($_SESSION['user_id'])){ ?>
