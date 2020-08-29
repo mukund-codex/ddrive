@@ -87,6 +87,16 @@
                         </div>
                     </div>
                 </div> -->
+                <div class="clearfix"></div>
+                <br>
+                <div class="clearfix"></div>
+                <div class="col-12 pt-5">
+                    <h2>About Us</h2>
+                    <div><p>India's most convenient online grocery channel</p>
+                    <p>Ddrive Fresh and Smart makes your grocery shopping even simpler. No more hassles of sweating it out in crowded markets, grocery shops & supermarkets - now shop from the comfort of your home; office or on the move.</p>
+                <p>We offer you convenience of shopping everything that you need for your home - be it fresh fruits & vegetables, rice, dals, oil, packaged food, dairy item, frozen, pet food, household cleaning items & personal care products from a single virtual store.</p></div>
+                <div class="clearfix"></div>
+                </div>
             </div>
         </div>
     </section>
