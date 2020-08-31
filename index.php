@@ -95,6 +95,7 @@
                                 <div class="product__item__text">
                                     <h6><a href="shop-details.php?id=<?php echo $rows1['id']; ?>"><?php echo $rows1['name']; ?></a></h6>
                                     <h5><?php if(!empty($rows1['discount'])) { echo $rows1['discount']; }else{ echo $rows1['price']; }  ?></h5>
+                                    <h6><a href="shop-details.php?id=<?php echo $rows1['id']; ?>" style="color:blue;">View Details</a></h6>
                                 </div>
                             </div>
                         </div>
