@@ -57,7 +57,8 @@
                     </div>
                 </div>
                 <div class="col-lg-9">
-                    <div class="hero__item set-bg" data-setbg="img/hero/banner.jpg">
+                    <div>
+                                <img src="img/hero/banner.jpg">
                         <!-- <div class="hero__text">
                             <span>Online grocery</span>
                             <h2>Online grocery <br />100% Organic</h2>

@@ -1527,7 +1527,7 @@ ol {
 }
 
 .product__item {
-	margin-bottom: 50px;
+	margin-bottom: 50px; background-color: #f9f9f9;
 }
 
 .product__item:hover .product__item__pic .product__item__pic__hover {
@@ -1603,7 +1603,7 @@ ol {
 
 .product__item__text {
 	text-align: center;
-	padding-top: 15px;
+	padding-top: 15px; padding-bottom: 15px;
 }
 
 .product__item__text h6 {
