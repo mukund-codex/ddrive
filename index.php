@@ -41,7 +41,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3">
-                    <div class="hero__categories" style="height: 430px;overflow-y: scroll;">
+                    <div class="hero__categories" style="overflow-y: scroll;">
                         <div class="hero__categories__all">
                             <i class="fa fa-bars"></i>
                             <span>All Products</span>
