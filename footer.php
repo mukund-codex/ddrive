@@ -9,7 +9,7 @@
                             <a href="./index.html" style="color:#9C2579; font-family:Milonga; font-size: 20px;">LOCKDOWN STORE</a>
                         </div>
                         <ul>
-                            <li>Add: Shop no 2 , Anuja complex , Mahesh park , Tulinj road, Nallasopara east</li>
+                            <li>Address: Shop no 2 , Anuja complex , Mahesh park , Tulinj road, Nallasopara east</li>
                             <li>Phone: +91 7400001737</li>
                             <li><a href = "mailto: thelockdownstoreborivali@gmail.com">thelockdownstoreborivali@gmail.com</a></li>
                         </ul>

@@ -138,7 +138,7 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 text-center">
                     <div class="contact__widget">
                         <span class="icon_mail_alt"></span>
-                        <h4>Email</h4>
+                        <h4>Email-Id</h4>
                         <a href = "mailto: thelockdownstoreborivali@gmail.com">thelockdownstoreborivali@gmail.com</a>
                     </div>
                 </div>
