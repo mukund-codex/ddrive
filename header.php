@@ -91,7 +91,7 @@ if(! $_SESSION['user_id']){
                     <nav class="header__menu">
                         <ul>
                             <li class="active"><a href="index.php">Home</a></li>
-                            <li><a href="shoping-cart.php">Shoping Cart</a></li>
+                            <li><a href="shoping-cart.php">Shopping Cart</a></li>
                             <li><a href="about-us.php">About Us</a></li>
                             <li><a href="contact.php">Contact Us</a></li>
                             <!-- <li><a href="checkout.php">Check Out</a></li> -->
